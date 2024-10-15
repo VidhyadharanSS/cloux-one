@@ -32,7 +32,7 @@ const App = () => {
                 <li>User-friendly interface with simple file management tools.</li>
               </ul>
             </p>
-            <button className="card-button" onClick={() => window.open('https://cloudx-kappa.vercel.app', '_blank')}>
+            <button className="card-button" onClick={() => window.open('https://pinata-drive.vercel.app', '_blank')}>
               Go to CloudX Drive
             </button>
           </div>
